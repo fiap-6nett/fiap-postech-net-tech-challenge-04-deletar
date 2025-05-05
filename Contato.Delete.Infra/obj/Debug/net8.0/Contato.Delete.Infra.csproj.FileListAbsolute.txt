@@ -1,0 +1,17 @@
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\bin\Debug\net8.0\Contato.Delete.Infra.deps.json
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\bin\Debug\net8.0\Contato.Delete.Infra.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\bin\Debug\net8.0\Contato.Delete.Infra.pdb
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\obj\Debug\net8.0\Contato.Delete.Infra.csproj.AssemblyReference.cache
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\obj\Debug\net8.0\Contato.Delete.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\obj\Debug\net8.0\Contato.Delete.Infra.AssemblyInfoInputs.cache
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\obj\Debug\net8.0\Contato.Delete.Infra.AssemblyInfo.cs
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\obj\Debug\net8.0\Contato.Delete.Infra.csproj.CoreCompileInputs.cache
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\obj\Debug\net8.0\Contato.Delete.Infra.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\obj\Debug\net8.0\refint\Contato.Delete.Infra.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\obj\Debug\net8.0\Contato.Delete.Infra.pdb
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\obj\Debug\net8.0\ref\Contato.Delete.Infra.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\bin\Debug\net8.0\Contato.Delete.Application.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\bin\Debug\net8.0\Contato.Delete.Application.pdb
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\obj\Debug\net8.0\Contato..6F8BBEFA.Up2Date
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\bin\Debug\net8.0\Contato.Delete.Domain.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\bin\Debug\net8.0\Contato.Delete.Domain.pdb

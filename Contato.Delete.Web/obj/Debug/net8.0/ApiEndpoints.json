@@ -1,0 +1,27 @@
+[
+  {
+    "ContainingType": "Contato.Delete.Web.Controllers.ContatoController",
+    "Method": "DeletarContato",
+    "RelativePath": "api/Contato/DeletarContato",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Contato.Delete.Application.Dtos.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ]
+  }
+]

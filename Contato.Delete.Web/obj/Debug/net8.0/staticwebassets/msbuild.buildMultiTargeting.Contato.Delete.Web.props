@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Contato.Delete.Web.props" />
+</Project>
