@@ -1,6 +1,7 @@
 using Contato.Delete.Application.Interfaces;
 using Contato.Delete.Application.Services;
 using Contato.Delete.Infra.RabbitMQ;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 

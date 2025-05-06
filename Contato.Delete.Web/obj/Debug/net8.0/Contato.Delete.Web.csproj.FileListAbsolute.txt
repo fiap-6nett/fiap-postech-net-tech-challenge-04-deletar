@@ -44,3 +44,4 @@ C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Web\bin\D
 C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Web\bin\Debug\net8.0\Contato.Delete.Application.pdb
 C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Web\bin\Debug\net8.0\Contato.Delete.Infra.pdb
 C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Web\bin\Debug\net8.0\Contato.Delete.Domain.pdb
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Web\obj\Debug\net8.0\Contato.Delete.Web.sourcelink.json

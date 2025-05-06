@@ -35,6 +35,11 @@ namespace Contato.Delete.Web.Controllers
             {
                 _logger.LogInformation($"Acessou {nameof(DeletarContato)}. Entrada: {dto}");
 
+                var response = new ResponseDto()
+                {
+                    Id = dto.Id
+                };
+
                 if (!ModelState.IsValid)
                 {
                     _logger.LogWarning($"Dados inválidos - Entrada: {dto}");
@@ -44,17 +49,11 @@ namespace Contato.Delete.Web.Controllers
                 await _contatoService.DeletarContatoAsync(dto);
                 _logger.LogInformation($"Dados enviados para fila com sucesso.");
 
-                var response = new ResponseDto()
-                {
-                    Id = dto.Id
-                };
-
                 return Ok(response);
             }
             catch (Exception ex)
             {
-
-                _logger.LogError($"Falha na api AtualizarContato. Erro{ex}");
+                _logger.LogError($"Falha na api DeletarContato. Erro{ex}");
                 return StatusCode(500, $"Internal server error - {ex}");
             }
         }
