@@ -26,10 +26,10 @@ namespace Contato.Delete.Web.Controllers
         /// <response code="200">Contato Deletado com sucesso</response>
         /// <response code="400">Dados inválidos</response>
 
-        [HttpDelete("[action]")]
+        [HttpDelete("{id:guid}")]
         [ProducesResponseType(typeof(ResponseDto), StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public async Task<IActionResult> DeletarContato([FromRoute] DeletarContatoDto dto)
+        public async Task<IActionResult> DeletarContato([FromRoute] DeletarContatoDto dto,  string id)
         {
             try
             {

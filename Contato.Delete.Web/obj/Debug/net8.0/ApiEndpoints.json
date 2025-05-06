@@ -2,11 +2,17 @@
   {
     "ContainingType": "Contato.Delete.Web.Controllers.ContatoController",
     "Method": "DeletarContato",
-    "RelativePath": "api/Contato/DeletarContato",
+    "RelativePath": "api/Contato/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
         "Type": "Contato.Delete.Application.Dtos.ResponseDto",

@@ -15,3 +15,4 @@ C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\bin
 C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\obj\Debug\net8.0\Contato..6F8BBEFA.Up2Date
 C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\bin\Debug\net8.0\Contato.Delete.Domain.dll
 C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\bin\Debug\net8.0\Contato.Delete.Domain.pdb
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Infra\obj\Debug\net8.0\Contato.Delete.Infra.sourcelink.json

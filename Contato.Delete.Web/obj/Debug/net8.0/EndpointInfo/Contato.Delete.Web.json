@@ -5,10 +5,20 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Contato/DeletarContato": {
+    "/api/Contato/{id}": {
       "delete": {
         "tags": [
           "Contato"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
         ],
         "responses": {
           "200": {

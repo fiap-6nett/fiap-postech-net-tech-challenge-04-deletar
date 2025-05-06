@@ -13,3 +13,4 @@ C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Applicati
 C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\bin\Debug\net8.0\Contato.Delete.Domain.pdb
 C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\obj\Debug\net8.0\Contato.Delete.Application.csproj.AssemblyReference.cache
 C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\obj\Debug\net8.0\Contato..9619BF7F.Up2Date
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\obj\Debug\net8.0\Contato.Delete.Application.sourcelink.json

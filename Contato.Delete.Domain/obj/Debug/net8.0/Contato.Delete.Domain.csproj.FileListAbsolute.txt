@@ -9,3 +9,4 @@ C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\ob
 C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\obj\Debug\net8.0\refint\Contato.Delete.Domain.dll
 C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\obj\Debug\net8.0\Contato.Delete.Domain.pdb
 C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\obj\Debug\net8.0\ref\Contato.Delete.Domain.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\obj\Debug\net8.0\Contato.Delete.Domain.sourcelink.json

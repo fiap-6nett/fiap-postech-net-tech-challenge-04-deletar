@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contato.Delete.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1238425a1d3b5633ad181b6bb6cb40db9190e163")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contato.Delete.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contato.Delete.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

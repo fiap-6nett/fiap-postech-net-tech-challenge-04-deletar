@@ -20,7 +20,6 @@ namespace Contato.Delete.Infra.RabbitMQ
             {
                 HostName = _settings.Host,
                 UserName = _settings.Username,
-                Port = _settings.Port,
                 Password = _settings.Password,
                 VirtualHost = _settings.VirtualHost
             };
