@@ -4,9 +4,16 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <UserSecretsId>8cf2592d-8f22-49cf-bc93-62171cf06fc6</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
+  
+  <ItemGroup>
+    <Content Include="..\.dockerignore">
+      <Link>.dockerignore</Link>
+    </Content>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />

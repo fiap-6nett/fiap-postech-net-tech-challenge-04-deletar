@@ -1,0 +1,16 @@
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\bin\Release\net8.0\Contato.Delete.Application.deps.json
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\bin\Release\net8.0\Contato.Delete.Application.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\bin\Release\net8.0\Contato.Delete.Application.pdb
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\bin\Release\net8.0\Contato.Delete.Domain.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\bin\Release\net8.0\Contato.Delete.Domain.pdb
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\obj\Release\net8.0\Contato.Delete.Application.csproj.AssemblyReference.cache
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\obj\Release\net8.0\Contato.Delete.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\obj\Release\net8.0\Contato.Delete.Application.AssemblyInfoInputs.cache
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\obj\Release\net8.0\Contato.Delete.Application.AssemblyInfo.cs
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\obj\Release\net8.0\Contato.Delete.Application.csproj.CoreCompileInputs.cache
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\obj\Release\net8.0\Contato.Delete.Application.sourcelink.json
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\obj\Release\net8.0\Contato..9619BF7F.Up2Date
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\obj\Release\net8.0\Contato.Delete.Application.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\obj\Release\net8.0\refint\Contato.Delete.Application.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\obj\Release\net8.0\Contato.Delete.Application.pdb
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\obj\Release\net8.0\ref\Contato.Delete.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\bin\Release\net8.0\Contato.Delete.Domain.deps.json
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\bin\Release\net8.0\Contato.Delete.Domain.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\bin\Release\net8.0\Contato.Delete.Domain.pdb
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\obj\Release\net8.0\Contato.Delete.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\obj\Release\net8.0\Contato.Delete.Domain.AssemblyInfoInputs.cache
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\obj\Release\net8.0\Contato.Delete.Domain.AssemblyInfo.cs
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\obj\Release\net8.0\Contato.Delete.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\obj\Release\net8.0\Contato.Delete.Domain.sourcelink.json
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\obj\Release\net8.0\Contato.Delete.Domain.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\obj\Release\net8.0\refint\Contato.Delete.Domain.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\obj\Release\net8.0\Contato.Delete.Domain.pdb
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Domain\obj\Release\net8.0\ref\Contato.Delete.Domain.dll

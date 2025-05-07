@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Contato.Delete.Domain/1.0.0": {
+        "runtime": {
+          "Contato.Delete.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contato.Delete.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

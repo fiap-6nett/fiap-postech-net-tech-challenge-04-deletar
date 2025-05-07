@@ -1,0 +1,5 @@
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\bin\Release\net8.0\publish\Contato.Delete.Application.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\bin\Release\net8.0\publish\Contato.Delete.Application.deps.json
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\bin\Release\net8.0\publish\Contato.Delete.Application.pdb
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\bin\Release\net8.0\publish\Contato.Delete.Domain.dll
+C:\Users\cleber.pacheco\source\repos\Contato.Delete.Web\Contato.Delete.Application\bin\Release\net8.0\publish\Contato.Delete.Domain.pdb

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contato.Delete.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5283d3d41ec34941fdd0e7e8752ef04367031dfb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be09ba95d31b041220f6db403acea45f5f2af0ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contato.Delete.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contato.Delete.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

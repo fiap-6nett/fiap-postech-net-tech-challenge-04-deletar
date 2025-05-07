@@ -10,6 +10,7 @@
         "tags": [
           "Contato"
         ],
+        "summary": "Enviar um contato para a fila que será deletado.",
         "parameters": [
           {
             "name": "id",
@@ -22,7 +23,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
+            "description": "Contato Deletado com sucesso",
             "content": {
               "text/plain": {
                 "schema": {
@@ -42,7 +43,7 @@
             }
           },
           "400": {
-            "description": "Bad Request"
+            "description": "Dados inválidos"
           }
         }
       }
