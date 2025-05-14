@@ -29,7 +29,7 @@ namespace Contato.Delete.Web.Controllers
         [HttpDelete("{id:guid}")]
         [ProducesResponseType(typeof(ResponseDto), StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public async Task<IActionResult> DeletarContato([FromRoute] DeletarContatoDto dto,  string id)
+        public async Task<IActionResult> DeletarContato([FromRoute] DeletarContatoDto dto,  Guid id)
         {
             try
             {

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0376C53-4759-429C-8DE3-FE33501E82D2}|Contato.Delete.Web\\Contato.Delete.Web.csproj|c:\\users\\cleber.pacheco\\source\\repos\\contato.delete.web\\contato.delete.web\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A0376C53-4759-429C-8DE3-FE33501E82D2}|Contato.Delete.Web\\Contato.Delete.Web.csproj|solutionrelative:contato.delete.web\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0376C53-4759-429C-8DE3-FE33501E82D2}|Contato.Delete.Web\\Contato.Delete.Web.csproj|c:\\users\\cleber.pacheco\\source\\repos\\contato.delete.web\\contato.delete.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0376C53-4759-429C-8DE3-FE33501E82D2}|Contato.Delete.Web\\Contato.Delete.Web.csproj|solutionrelative:contato.delete.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0376C53-4759-429C-8DE3-FE33501E82D2}|Contato.Delete.Web\\Contato.Delete.Web.csproj|c:\\users\\cleber.pacheco\\source\\repos\\contato.delete.web\\contato.delete.web\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0376C53-4759-429C-8DE3-FE33501E82D2}|Contato.Delete.Web\\Contato.Delete.Web.csproj|solutionrelative:contato.delete.web\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0376C53-4759-429C-8DE3-FE33501E82D2}|Contato.Delete.Web\\Contato.Delete.Web.csproj|c:\\users\\cleber.pacheco\\source\\repos\\contato.delete.web\\contato.delete.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A0376C53-4759-429C-8DE3-FE33501E82D2}|Contato.Delete.Web\\Contato.Delete.Web.csproj|solutionrelative:contato.delete.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7050AC6E-9757-4FA2-909A-23B8ACA85933}|Contato.Delete.Domain\\Contato.Delete.Domain.csproj|c:\\users\\cleber.pacheco\\source\\repos\\contato.delete.web\\contato.delete.domain\\entities\\contatoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7050AC6E-9757-4FA2-909A-23B8ACA85933}|Contato.Delete.Domain\\Contato.Delete.Domain.csproj|solutionrelative:contato.delete.domain\\entities\\contatoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B43BE6-28DC-4D35-AF02-C3122A83D3A7}|Contato.Delete.Application\\Contato.Delete.Application.csproj|c:\\users\\cleber.pacheco\\source\\repos\\contato.delete.web\\contato.delete.application\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B43BE6-28DC-4D35-AF02-C3122A83D3A7}|Contato.Delete.Application\\Contato.Delete.Application.csproj|solutionrelative:contato.delete.application\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B43BE6-28DC-4D35-AF02-C3122A83D3A7}|Contato.Delete.Application\\Contato.Delete.Application.csproj|c:\\users\\cleber.pacheco\\source\\repos\\contato.delete.web\\contato.delete.application\\dtos\\deletarcontatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B43BE6-28DC-4D35-AF02-C3122A83D3A7}|Contato.Delete.Application\\Contato.Delete.Application.csproj|solutionrelative:contato.delete.application\\dtos\\deletarcontatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B43BE6-28DC-4D35-AF02-C3122A83D3A7}|Contato.Delete.Application\\Contato.Delete.Application.csproj|c:\\users\\cleber.pacheco\\source\\repos\\contato.delete.web\\contato.delete.application\\interfaces\\iasyncrabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B43BE6-28DC-4D35-AF02-C3122A83D3A7}|Contato.Delete.Application\\Contato.Delete.Application.csproj|solutionrelative:contato.delete.application\\interfaces\\iasyncrabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,53 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Web\\Dockerfile",
-              "RelativeDocumentMoniker": "Contato.Delete.Web\\Dockerfile",
-              "ToolTip": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Web\\Dockerfile",
-              "RelativeToolTip": "Contato.Delete.Web\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-07T15:08:51.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ContatoController.cs",
               "DocumentMoniker": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Web\\Controllers\\ContatoController.cs",
               "RelativeDocumentMoniker": "Contato.Delete.Web\\Controllers\\ContatoController.cs",
-              "ToolTip": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Web\\Controllers\\ContatoController.cs",
-              "RelativeToolTip": "Contato.Delete.Web\\Controllers\\ContatoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Web\\Controllers\\ContatoController.cs*",
+              "RelativeToolTip": "Contato.Delete.Web\\Controllers\\ContatoController.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA3wCIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T14:25:41.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "Contato.Delete.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Web\\appsettings.json",
-              "RelativeToolTip": "Contato.Delete.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-07T14:18:14.598Z",
+              "WhenOpened": "2025-05-14T14:01:35.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Contato.Delete.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Web\\Program.cs",
-              "RelativeToolTip": "Contato.Delete.Web\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Title": "ContatoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Domain\\Entities\\ContatoEntity.cs",
+              "RelativeDocumentMoniker": "Contato.Delete.Domain\\Entities\\ContatoEntity.cs",
+              "ToolTip": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Domain\\Entities\\ContatoEntity.cs",
+              "RelativeToolTip": "Contato.Delete.Domain\\Entities\\ContatoEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:17:10.326Z",
+              "WhenOpened": "2025-05-14T14:00:24.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Application\\Dtos\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Contato.Delete.Application\\Dtos\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Application\\Dtos\\ResponseDto.cs",
+              "RelativeToolTip": "Contato.Delete.Application\\Dtos\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:00:17.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeletarContatoDto.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Application\\Dtos\\DeletarContatoDto.cs",
+              "RelativeDocumentMoniker": "Contato.Delete.Application\\Dtos\\DeletarContatoDto.cs",
+              "ToolTip": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Application\\Dtos\\DeletarContatoDto.cs",
+              "RelativeToolTip": "Contato.Delete.Application\\Dtos\\DeletarContatoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:00:12.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAsyncRabbitMqProducer.cs",
+              "DocumentMoniker": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Application\\Interfaces\\IAsyncRabbitMqProducer.cs",
+              "RelativeDocumentMoniker": "Contato.Delete.Application\\Interfaces\\IAsyncRabbitMqProducer.cs",
+              "ToolTip": "C:\\Users\\cleber.pacheco\\source\\repos\\Contato.Delete.Web\\Contato.Delete.Application\\Interfaces\\IAsyncRabbitMqProducer.cs",
+              "RelativeToolTip": "Contato.Delete.Application\\Interfaces\\IAsyncRabbitMqProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:00:01.071Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contato.Delete.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be09ba95d31b041220f6db403acea45f5f2af0ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b341d9da0ee50031613df691a1267bdec1b07abe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contato.Delete.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contato.Delete.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
