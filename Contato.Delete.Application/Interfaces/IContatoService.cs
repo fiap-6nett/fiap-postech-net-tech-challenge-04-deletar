@@ -4,6 +4,6 @@ namespace Contato.Delete.Application.Interfaces
 {
     public interface IContatoService
     {
-        Task DeletarContatoAsync(DeletarContatoDto dto);
+        Task DeletarContatoAsync(Guid id);
     }
 }

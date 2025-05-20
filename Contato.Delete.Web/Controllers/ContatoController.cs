@@ -25,28 +25,27 @@ namespace Contato.Delete.Web.Controllers
         /// <returns>Retorna o ID.</returns>
         /// <response code="200">Contato Deletado com sucesso</response>
         /// <response code="400">Dados inválidos</response>
-
-        [HttpDelete("{id:guid}")]
+        [HttpDelete("[action]")]        
         [ProducesResponseType(typeof(ResponseDto), StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public async Task<IActionResult> DeletarContato([FromRoute] DeletarContatoDto dto,  Guid id)
+        public async Task<IActionResult> DeletarContato(Guid id)
         {
             try
             {
-                _logger.LogInformation($"Acessou {nameof(DeletarContato)}. Entrada: {dto}");
+                _logger.LogInformation($"Acessou {nameof(DeletarContato)}. Entrada: {id}");
 
                 var response = new ResponseDto()
                 {
-                    Id = dto.Id
+                    Id = id
                 };
 
                 if (!ModelState.IsValid)
                 {
-                    _logger.LogWarning($"Dados inválidos - Entrada: {dto}");
+                    _logger.LogWarning($"Id inválido - Entrada: {id}");
                     return BadRequest(ModelState);
                 }
 
-                await _contatoService.DeletarContatoAsync(dto);
+                await _contatoService.DeletarContatoAsync(id);
                 _logger.LogInformation($"Dados enviados para fila com sucesso.");
 
                 return Ok(response);

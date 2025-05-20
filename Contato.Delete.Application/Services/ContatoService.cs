@@ -14,11 +14,11 @@ namespace Contato.Delete.Application.Services
             _producer = producer;
         }
 
-        public Task DeletarContatoAsync(DeletarContatoDto dto)
+        public Task DeletarContatoAsync(Guid id)
         {
             var contato = new ContatoEntity();
 
-            contato.SetId(dto.Id);
+            contato.SetId(id);
 
             _producer.EnviarMensagem(contato);
 
