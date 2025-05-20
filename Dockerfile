@@ -1,15 +1,48 @@
-FROM mcr.microsoft.com/dotnet/sdk:8.0@sha256:35792ea4ad1db051981f62b313f1be3b46b1f45cadbaa3c288cd0d3056eefb83 AS build
-WORKDIR /App
+# Imagem base para runtime
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+WORKDIR /app
 
-# Copy everything
-COPY . ./
-# Restore as distinct layers
-RUN dotnet restore
-# Build and publish a release
-RUN dotnet publish -o out
+# Exponha apenas a porta principal usada pela API
+EXPOSE 8080
 
-# Build runtime image
-FROM mcr.microsoft.com/dotnet/aspnet:8.0@sha256:6c4df091e4e531bb93bdbfe7e7f0998e7ced344f54426b7e874116a3dc3233ff
-WORKDIR /App
-COPY --from=build /App/out .
+# Imagem para build do projeto
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+ARG BUILD_CONFIGURATION=Release
+WORKDIR /src
+
+# Copia a solução
+COPY Contato.Delete.Web.sln . 
+
+# Copia os projetos
+COPY Contato.Delete.Web/Contato.Delete.Web.csproj Contato.Delete.Web/
+COPY Contato.Delete.Application/Contato.Delete.Application.csproj Contato.Delete.Application/
+COPY Contato.Delete.Domain/Contato.Delete.Domain.csproj Contato.Delete.Domain/
+COPY Contato.Delete.Infra/Contato.Delete.Infra.csproj Contato.Delete.Infra/
+
+# Restaura dependências
+RUN dotnet restore Contato.Delete.Web.sln
+
+# Copia o restante do código
+COPY . .
+
+# Build do projeto
+WORKDIR /src/Contato.Delete.Web
+RUN dotnet build -c $BUILD_CONFIGURATION -o /app/build
+
+# Publica a aplicação
+FROM build AS publish
+ARG BUILD_CONFIGURATION=Release
+RUN dotnet publish -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+
+# Final: imagem de runtime
+FROM base AS final
+WORKDIR /app
+
+# Garante que a aplicação escute na porta correta
+ENV ASPNETCORE_URLS=http://+:8080
+
+# Copia os arquivos publicados
+COPY --from=publish /app/publish .
+
+# Comando para iniciar a aplicação
 ENTRYPOINT ["dotnet", "Contato.Delete.Web.dll" ]
