@@ -19,9 +19,9 @@ namespace Contato.Delete.Web.Controllers
         }
 
         /// <summary>
-        /// Enviar um contato para a fila que será deletado.
+        /// Enviar um id de contato para a fila que será deletado.
         /// </summary>
-        /// <param name="dto">Dados do contato a serem deletados.</param>
+        /// <param name="id">Id do contato a ser deletado.</param>
         /// <returns>Retorna o ID.</returns>
         /// <response code="200">Contato Deletado com sucesso</response>
         /// <response code="400">Dados inválidos</response>
