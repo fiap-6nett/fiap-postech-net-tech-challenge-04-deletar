@@ -1,0 +1,12 @@
+﻿apiVersion: v1
+kind: Pod
+metadata:
+    name: apicontatodeletepod
+    labels:
+        app: apicontatodeletepod
+spec:
+    containers:
+    - name: apicontatodeletepod
+      image: cleberpsa/apicontatodelete:latest
+      ports:
+      - containerPort: 8080

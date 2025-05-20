@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Contato.Delete.Web</name>
+    </assembly>
+    <members>
+        <member name="M:Contato.Delete.Web.Controllers.ContatoController.DeletarContato(Contato.Delete.Application.Dtos.DeletarContatoDto)">
+            <summary>
+            Enviar um contato para a fila que será deletado.
+            </summary>
+            <param name="dto">Dados do contato a serem deletados.</param>
+            <returns>Retorna o ID.</returns>
+            <response code="200">Contato Deletado com sucesso</response>
+            <response code="400">Dados inválidos</response>
+        </member>
+    </members>
+</doc>
